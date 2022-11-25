@@ -1,6 +1,6 @@
 import random
 
-ch = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTuvwxyz1234567890@#$%"
+ch = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890@#$%"
 
 while 1:
     pl = int(input("How many character? : ")) 
