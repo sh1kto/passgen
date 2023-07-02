@@ -1,4 +1,4 @@
-# passgen
+# Passgen
 A Simple Password Generator made with python. (Demo Project)
 
 
